@@ -1,4 +1,4 @@
-# API de Usuarios
+# Users API
 
 This API allows to obtain information about users through an endpoint.
 
