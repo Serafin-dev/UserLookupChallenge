@@ -35,7 +35,7 @@ The response will be a JSON object containing the information of the user with I
     "last_name": "Lawson",
     "avatar": "https://reqres.in/img/faces/7-image.jpg"
 }
-
+```
 If the provided ID does not exist, the response will be a JSON object with an error message and HTTP 404 status code:
 ```json
 {
