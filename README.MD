@@ -41,7 +41,7 @@ If the provided ID does not exist, the response will be a JSON object with an er
 {
   "error": "User with id 1 not found"
 }
-
+```
 ## Tests
 
 The test file './test/index.test.js' contains tests to verify the behavior of the API in different cases:
