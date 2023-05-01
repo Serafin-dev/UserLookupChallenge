@@ -9,7 +9,7 @@ This API allows to obtain information about users through an endpoint.
 - Path: `/users`
 - HTTP Method: `GET`
 - Query parameters:
-  - 'id': (required) ID of the user you want to get.
+  - `id`: (required) ID of the user you want to get.
 - Successful response:
   - HTTP status code: `200`
   - Content: JSON object with user information
